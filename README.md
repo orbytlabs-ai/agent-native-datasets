@@ -1,10 +1,16 @@
 # Agent-Native Dataset Design: Schema, Licensing, and Distribution Patterns for LLM Retrieval
 
-By Justin Bartak (Purecraft LLC), ORCID 0009-0005-2615-3624. Published 2026-04-25.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19754393.svg)](https://doi.org/10.5281/zenodo.19754393) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Version 1.0.0, content revised 2026-09-18. This version numbers this summary record, not the paper. The paper's DOI below is the deposited version; a new version of this record does not mint a new DOI.
+Preprint by Justin Bartak (Purecraft LLC). Published 2026-04-25.
+
+Author: Justin Bartak, ORCID [0009-0005-2615-3624](https://orcid.org/0009-0005-2615-3624), Wikidata [Q139551829](https://www.wikidata.org/wiki/Q139551829). Organization: Orbyt Labs, Wikidata [Q139551916](https://www.wikidata.org/wiki/Q139551916), https://www.orbytlabs.ai.
+
+Version 1.0.1, content revised 2026-09-18. This version numbers this summary record, not the paper. The paper's DOI below is the deposited version; a new version of this record does not mint a new DOI.
 
 Canonical page: https://www.orbytlabs.ai/research/agent-native-datasets
+
+Part of Orbyt Labs Research: https://github.com/orbytlabs-ai/ai-agent-research
 
 ## Identifiers
 
@@ -41,13 +47,13 @@ We conclude with a ten-item retrofit checklist that addresses the necessary half
 
 ## Measured
 
-Published Apr, 25 2026. Preprint on Zenodo; evaluation code is private, available on request.
+Published 2026-04-25. Preprint on Zenodo; evaluation code is private, available on request.
 
 ## Builds on
 
 - Orbyt Intelligence Annual Compensation Report 2026, https://doi.org/10.5281/zenodo.19653006
 
-## Cite this
+## How to cite
 
 Bartak, J. (2026). Agent-Native Dataset Design: Schema, Licensing, and Distribution Patterns for LLM Retrieval. Zenodo. https://doi.org/10.5281/zenodo.19754393
 
@@ -63,7 +69,11 @@ Bartak, J. (2026). Agent-Native Dataset Design: Schema, Licensing, and Distribut
 }
 ```
 
-License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
+## License
+
+CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), as the paper's record states. LICENSE holds the full legal code. Reuse it with attribution: cite the paper as above.
+
+Corrections: report an error at https://www.orbytlabs.ai/contact. A corrected record is published as a new version, and its changelog names what changed.
 
 ## Changelog
 

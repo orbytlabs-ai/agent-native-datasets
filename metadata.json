@@ -10,9 +10,9 @@
   "path": "README.md",
   "first_published": "2026-04-25",
   "revised": "2026-09-18",
-  "version": "1.0.0",
-  "tag": "v1.0.0",
-  "record_sha256": "28373f964ec5b29cc545e9a49d82f39764a7add929ae524516ff334ced549245",
+  "version": "1.0.1",
+  "tag": "v1.0.1",
+  "record_sha256": "8b1a9ce229d4befd5ceb78bbe9c42389531159a0d8c4af9be7972b591e6f09c0",
   "doi": "10.5281/zenodo.19754393",
   "citation": "Bartak, J. (2026). Agent-Native Dataset Design: Schema, Licensing, and Distribution Patterns for LLM Retrieval. Zenodo. https://doi.org/10.5281/zenodo.19754393",
   "history": [
@@ -21,12 +21,23 @@
       "date": "2026-09-18",
       "kind": "initial",
       "changed": []
+    },
+    {
+      "version": "1.0.1",
+      "date": "2026-09-18",
+      "kind": "patch",
+      "changed": [
+        "artifact type",
+        "keywords",
+        "measured"
+      ],
+      "reason": "presentation: dates rendered as ISO 8601; citation metadata added"
     }
   ],
   "record": {
     "title": "Agent-Native Dataset Design: Schema, Licensing, and Distribution Patterns for LLM Retrieval",
     "description": "Schema, licensing, and distribution patterns for datasets that are read by LLM agents rather than crawled by search engines. Proposes agent-native dataset design as a category distinct from training corpora and traditional research datasets.",
-    "measured": "Published Apr, 25 2026. Preprint on Zenodo; evaluation code is private, available on request.",
+    "measured": "Published 2026-04-25. Preprint on Zenodo; evaluation code is private, available on request.",
     "authors": [
       {
         "givenNames": "Justin",
@@ -66,6 +77,17 @@
         "title": "H3 and H4 are conditionally supported.",
         "body": "Where retrieval discovers Orbyt at non-floor rates (GPT-4o + web_search), the cited URLs are heavily skewed toward schema-rich routes (/salaries, /orbyt-intelligence) over prose routes (/blog, /guides). The schema effect manifests conditionally on indexation."
       }
+    ],
+    "artifact_type": "Preprint",
+    "keywords": [
+      "agent-native dataset design",
+      "retrieval-augmented generation",
+      "LLM retrieval evaluation",
+      "schema.org dataset",
+      "Model Context Protocol",
+      "llms.txt",
+      "open data publishing",
+      "compensation data"
     ],
     "license": {
       "label": "CC BY 4.0",

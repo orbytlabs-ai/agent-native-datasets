@@ -5,23 +5,23 @@
   "files": [
     {
       "path": "CHANGELOG.md",
-      "sha256": "bac799147b3863e1465e2febb55da9b980166b78f8df3b9d89bdc79bd5840e16"
+      "sha256": "ccee2fed806855ac36bcfb331cdb06b111c8c68994fbd8bf08b82dabb788e983"
     },
     {
       "path": "CITATION.cff",
-      "sha256": "61af1e9ee5b2fdb0933637d7e500e640f2893cd02f528d9574da2ceaccd6a5f0"
+      "sha256": "ebc04b8927c4594d2bd5d582d8c44e21f1051b3994986a26acdbdd15e346d174"
     },
     {
       "path": "LICENSE",
-      "sha256": "cd82350508d97fd65e96621a32db01d33fd1002ffdf8da3207f595eb6c5c05cc"
+      "sha256": "9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411"
     },
     {
       "path": "README.md",
-      "sha256": "5bb5b7c771bc947189b5ba0e730daa713c052feb40c2b282ddefa15b5211e41f"
+      "sha256": "365bc1cd800f9ac137bfb0f9bf51574e935dc380c73ed2036f1a05c01739c9bc"
     },
     {
       "path": "metadata.json",
-      "sha256": "2ac6cd32e03bf0ff13ff710d60692593d3334cd934f77a79a2892d7c704cb3d1"
+      "sha256": "5e0a5c5a5a795277c568a22e2b90c7dc04c362de7cd701828b103ae85fabbc8b"
     }
   ]
 }
