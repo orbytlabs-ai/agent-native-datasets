@@ -1,0 +1,27 @@
+{
+  "schema": 1,
+  "generator": "orbyt-research-distribution",
+  "target": "agent-native-datasets",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "bac799147b3863e1465e2febb55da9b980166b78f8df3b9d89bdc79bd5840e16"
+    },
+    {
+      "path": "CITATION.cff",
+      "sha256": "61af1e9ee5b2fdb0933637d7e500e640f2893cd02f528d9574da2ceaccd6a5f0"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "cd82350508d97fd65e96621a32db01d33fd1002ffdf8da3207f595eb6c5c05cc"
+    },
+    {
+      "path": "README.md",
+      "sha256": "5bb5b7c771bc947189b5ba0e730daa713c052feb40c2b282ddefa15b5211e41f"
+    },
+    {
+      "path": "metadata.json",
+      "sha256": "2ac6cd32e03bf0ff13ff710d60692593d3334cd934f77a79a2892d7c704cb3d1"
+    }
+  ]
+}
